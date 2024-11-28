@@ -45,6 +45,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/carlos1818augusto/carlos1818augusto/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/carlos1818augusto/carlos1818augusto/.github/workflows/blank.yml" alt="Snake animation" />
 
 ###
