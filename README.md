@@ -55,6 +55,9 @@
   <a href="https://www.linkedin.com/in/carlos-augusto-data-analytics/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
+  <a href="https://carlos1818augusto.github.io/Portifolio--Carlos-Augusto./" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/codesandbox/default.svg" width="52" height="40" alt="codesandbox logo"  />
+  </a>
 </div>
 
 ###
