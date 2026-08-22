@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./assets/carlos-augusto-profile.webp" width="260" alt="Carlos Augusto em um ambiente de tecnologia e dados" />
+  <img src="./assets/data-ai-cover.webp" width="100%" alt="Fluxo visual conectando engenharia de dados, analytics, inteligência de negócios e inteligência artificial" />
 
   <h1>Carlos Augusto</h1>
   <h3>Data Analytics · Business Intelligence · Data Engineering · AI Engineering</h3>
@@ -86,25 +86,19 @@ Não trato essas áreas como especialidades isoladas. Engenharia organiza a base
 
 ## Projetos em destaque
 
-<div align="center">
-  <a href="https://github.com/carlos1818augusto/carlos-augusto-data-ai-portfolio">
-    <img height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=carlos1818augusto&repo=carlos-augusto-data-ai-portfolio&theme=transparent&hide_border=true&title_color=3972FF&text_color=8B949E&icon_color=D8FF63" alt="Portfólio Data e IA" />
-  </a>
-  <a href="https://github.com/carlos1818augusto/nexo-ia-site">
-    <img height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=carlos1818augusto&repo=nexo-ia-site&theme=transparent&hide_border=true&title_color=3972FF&text_color=8B949E&icon_color=D8FF63" alt="NEXO IA" />
-  </a>
-</div>
+| Projeto | O que demonstra | Acesso |
+|:---|:---|:---:|
+| **Portfólio Data × AI** | Experiência completa em BI, Engenharia de Dados, Ciência de Dados, automações, LLMs, RAG e agentes. | [Repositório ↗](https://github.com/carlos1818augusto/carlos-augusto-data-ai-portfolio) · [Site ↗](https://carlos1818augusto.github.io/carlos-augusto-data-ai-portfolio/) |
+| **NEXO IA** | Conceito de experiência digital moderna para comunicar soluções de Dados e Inteligência Artificial. | [Repositório ↗](https://github.com/carlos1818augusto/nexo-ia-site) · [Site ↗](https://carlos1818augusto.github.io/nexo-ia-site/) |
+| **Estudos de caso** | Dashboards, pipelines, previsão de vendas, chatbot com RAG, agentes integrados ao WhatsApp e plataforma de dados para IA. | [Explorar projetos ↗](https://carlos1818augusto.github.io/carlos-augusto-data-ai-portfolio/projetos/) |
 
 <p align="center">
   <a href="https://carlos1818augusto.github.io/carlos-augusto-data-ai-portfolio/projetos/"><strong>Explorar estudos de caso de BI, pipelines, previsão, RAG e agentes de IA →</strong></a>
 </p>
 
-## GitHub em movimento
+## Atividade e contribuições
 
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=carlos1818augusto&show_icons=true&include_all_commits=true&hide_border=true&theme=transparent&title_color=3972FF&text_color=8B949E&icon_color=D8FF63" alt="Estatísticas do GitHub de Carlos Augusto" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlos1818augusto&layout=compact&hide_border=true&theme=transparent&title_color=3972FF&text_color=8B949E" alt="Linguagens mais utilizadas" />
-</div>
+Projetos evoluem por meio de experimentação, documentação e melhoria contínua. O histórico abaixo apresenta minha atividade recente no GitHub sem depender de cards externos instáveis.
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/carlos1818augusto/carlos1818augusto/output/pacman-contribution-graph-dark.svg" />
