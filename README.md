@@ -59,8 +59,8 @@ Não trato essas áreas como especialidades isoladas. Engenharia organiza a base
 
 <div align="center">
   <p><strong>Dados, Analytics e BI</strong></p>
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=111111" alt="Power BI" />
-  <img src="https://img.shields.io/badge/DAX-111827?style=flat-square&logo=powerbi&logoColor=F2C811" alt="DAX" />
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=chartdotjs&logoColor=111111" alt="Power BI" />
+  <img src="https://img.shields.io/badge/DAX-111827?style=flat-square&logo=chartdotjs&logoColor=F2C811" alt="DAX" />
   <img src="https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white" alt="SQL" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas" />
@@ -76,9 +76,9 @@ Não trato essas áreas como especialidades isoladas. Engenharia organiza a base
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
 
   <p><strong>Inteligência Artificial</strong></p>
-  <img src="https://img.shields.io/badge/LLMs-090A0E?style=flat-square&logo=openai&logoColor=white" alt="LLMs" />
+  <img src="https://img.shields.io/badge/LLMs-090A0E?style=flat-square&logo=huggingface&logoColor=white" alt="LLMs" />
   <img src="https://img.shields.io/badge/RAG-2557FF?style=flat-square&logo=semanticweb&logoColor=white" alt="RAG" />
-  <img src="https://img.shields.io/badge/AI_Agents-6C3CE1?style=flat-square&logo=probot&logoColor=white" alt="AI Agents" />
+  <img src="https://img.shields.io/badge/AI_Agents-6C3CE1?style=flat-square&logo=dependabot&logoColor=white" alt="AI Agents" />
   <img src="https://img.shields.io/badge/Vector_Search-00A67E?style=flat-square&logo=databricks&logoColor=white" alt="Vector Search" />
   <img src="https://img.shields.io/badge/Evals-FF7558?style=flat-square&logo=checkmarx&logoColor=white" alt="Evals" />
   <img src="https://img.shields.io/badge/WhatsApp_API-25D366?style=flat-square&logo=whatsapp&logoColor=white" alt="WhatsApp API" />
