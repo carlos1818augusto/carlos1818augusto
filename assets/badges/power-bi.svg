@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="78" height="20" role="img" aria-label="Power BI">
+  <rect width="78" height="20" rx="3" fill="#F2C811"/>
+  <g fill="#111111">
+    <rect x="7" y="10" width="2.5" height="5" rx=".5"/>
+    <rect x="11" y="7" width="2.5" height="8" rx=".5"/>
+    <rect x="15" y="4" width="2.5" height="11" rx=".5"/>
+  </g>
+  <text x="23" y="14" fill="#111111" font-family="Verdana,Arial,sans-serif" font-size="11">Power BI</text>
+</svg>
